@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=febriansyahxd" alt="febriansyahxd" /></a> </p>
 
-func AboutMe() Me {
+
 
 	return Me{
 
@@ -21,7 +21,7 @@ func AboutMe() Me {
 
 	}
 
-}
+
 
 
 
