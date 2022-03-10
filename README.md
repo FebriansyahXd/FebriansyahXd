@@ -5,11 +5,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=febriansyahxd" alt="febriansyahxd" /></a> </p>
 
-- 🔭 I’m currently working on YouTube
+func AboutMe() Me {
 
-- 💬 Ask me about **Bug Report**
+	return Me{
 
-- 📫 How to reach me **febrination956@gmail.com**
+		"- 🔭" : "I’m a hard worker who never gives up before tryinghybrid",
+
+		"- 🌱" : "I'm still learning and continue to learn the language I'm currently using is javascript",
+
+		"- 👯" : "I’m like learning about programming languages",
+
+		"- 🥅" : "if it's a matter of achievement, maybe it hasn't materialized because I'm still just learning",
+
+		"- ⚡" : "Fun fact: i like .... guess yourself :b",
+
+	}
+
+}
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
